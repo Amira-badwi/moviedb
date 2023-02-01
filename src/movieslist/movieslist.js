@@ -17,14 +17,14 @@ useEffect(
     ()=>{
      moviesarray.map(element => {
                arraystar.forEach(ele => {
-                if(element.id==ele.id){
+                if(element.id===ele.id){
                     element.isfire=true;
                 }
                });
             });
  setmovies(moviesarray);
 dispatch(moviesaction());
-},[]);
+});
 
 
 
