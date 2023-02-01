@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moviedb/static/css/main.d2195a92.css",
-    "main.js": "/moviedb/static/js/main.ebbb742b.js",
+    "main.js": "/moviedb/static/js/main.158eef16.js",
     "static/js/787.ac04ab78.chunk.js": "/moviedb/static/js/787.ac04ab78.chunk.js",
     "static/media/mera Store.png": "/moviedb/static/media/mera Store.6cf4b7a67d4b3b969102.png",
     "static/media/pexels-photo-459277.jpeg": "/moviedb/static/media/pexels-photo-459277.bc88856fadc0c0ac6adb.jpeg",
@@ -9,11 +9,11 @@
     "static/media/notfound.jpg": "/moviedb/static/media/notfound.21b9c038045226d7c4af.jpg",
     "index.html": "/moviedb/index.html",
     "main.d2195a92.css.map": "/moviedb/static/css/main.d2195a92.css.map",
-    "main.ebbb742b.js.map": "/moviedb/static/js/main.ebbb742b.js.map",
+    "main.158eef16.js.map": "/moviedb/static/js/main.158eef16.js.map",
     "787.ac04ab78.chunk.js.map": "/moviedb/static/js/787.ac04ab78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2195a92.css",
-    "static/js/main.ebbb742b.js"
+    "static/js/main.158eef16.js"
   ]
 }
