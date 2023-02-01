@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    background-color: rgb(255, 200, 0);
+}
+.cardsearch{
+    height: 370px;
+    opacity: .8;
+
+}
+.cardsearch img{
+    height: 320px;
+}

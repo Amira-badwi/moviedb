@@ -1,0 +1,26 @@
+.cardimg{
+    width: 100%;
+
+}
+.cardtitle{
+    height:30px ;
+}
+.cardbody{
+    background-color: rgb(179, 193, 193);
+}
+.cardbody h6{
+    color: rgb(36, 14, 58);
+    font-size: 12px;
+}
+.carddiatails{
+    height: 400px;
+width: 800px;
+}
+
+.card-group{
+    margin: 40px 80px;
+   
+}
+.detailsimg{
+    height: 100%;
+}

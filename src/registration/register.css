@@ -1,0 +1,18 @@
+.validation{
+    font-size: 10px;
+
+}
+.parent{
+    position: relative !important ;
+}
+
+#togglebtn{
+position: absolute;
+background-color: rgb(184, 209, 209);
+width: 30px;
+height: 30px;
+border-radius: 50%;
+top: 2%;
+left:90%;
+padding-left: 5px;
+}
